@@ -1,0 +1,37 @@
+.plus {
+    color: white;
+    background-color: lightskyblue;
+    border: none;
+    font-size: 27px;
+    border-radius: 10px;
+    padding: 5px 20px 5px 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.minus {
+    color: white;
+    background-color: lightskyblue;
+    border: none;
+    font-size: 27px;
+    border-radius: 10px;
+    padding: 5px 20px 5px 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.reset {
+    color: white;
+    background-color: lightskyblue;
+    border: none;
+    font-size: 27px;
+    border-radius: 10px;
+    padding: 5px 20px 5px 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
